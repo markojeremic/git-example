@@ -32,3 +32,7 @@ How to fork:
 * Make a change in a file.
 * Run through the steps ( status, diff, add, commit, push )
   * Since you've cloned this repository, it is pointing to your forked version.
+
+
+* This is my test
+* Marko Jeremic
